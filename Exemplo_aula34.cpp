@@ -26,4 +26,3 @@ int main(){
     area = obj->getArea();
     peri = obj->getPerimetro();
 }
-
